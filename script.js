@@ -112,4 +112,5 @@ window.addEventListener('scroll', () => {
   } else {
     scrollIndicator.style.opacity = '1';
   }
+
 });
